@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F1EAE932-E2F0-C7D8-065B-B270F1BAAC22}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MovePlayer02.cs">
+    <Files>
+      <File FileName="Assets/Script/MovePlayer01.cs" Line="10" Column="31" />
+      <File FileName="Assets/Script/MovePlayer02.cs" Line="30" Column="40" />
+      <File FileName="Assets/Script/Enemy.cs" Line="8" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4b176b87-85b8-4359-964b-da7ff8553352" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
